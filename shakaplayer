@@ -1,0 +1,30 @@
+echo "# clotairem" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/clotairemarmignon/clotairem.git
+git push -u origin master
+Error code 2000 object 
+at {severity: 2, category: 2, code: 2000, data: Array(0), handled: false}
+di.dispatchEvent	@	shaka-player.min.js:1
+e.Ta	@	shaka-player.min.js:1
+(anonymous)	@	shaka-player.min.js:1
+Promise.then (async)		
+zo	@	shaka-player.min.js:1
+(anonymous)	@	shaka-player.min.js:1
+Promise.catch (async)		
+_o	@	shaka-player.min.js:1
+Mo	@	shaka-player.min.js:1
+e.Re	@	shaka-player.min.js:1
+setTimeout (async)		
+Go	@	shaka-player.min.js:1
+(anonymous)	@	shaka-player.min.js:1
+Promise.then (async)		
+ko	@	shaka-player.min.js:1
+e.init	@	shaka-player.min.js:1
+(anonymous)	@	shaka-player.min.js:1
+k	@	shaka-player.min.js:1
+P.next	@	shaka-player.min.js:1
+a	@	shaka-player.min.js:1
+Promise.then (async)		
+i	@	shaka-player.min.js:1
